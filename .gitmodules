@@ -3,6 +3,6 @@
 # git submodule add git://github.com/sakydpozrux/<repo_name>.git <subdirectory_name>
 
 [submodule "rails_quick_blog"]
-        path = rails_quick_blog
+	path = ROR_1_QuickBlog
         url = git@github.com:sakydpozrux/ROR-course_1_QuickBlog.git
 
