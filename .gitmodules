@@ -1,0 +1,3 @@
+[submodule "rails_quick_blog"]
+        path = rails_quick_blog
+        url = git@github.com:sakydpozrux/ROR-course_1_QuickBlog.git
