@@ -2,7 +2,10 @@
 # git submodule update --init --recursive
 # git submodule add git://github.com/sakydpozrux/<repo_name>.git <subdirectory_name>
 
-[submodule "rails_quick_blog"]
+[submodule "ROR-course_1_QuickBlog"]
 	path = ROR_1_QuickBlog
-        url = git@github.com:sakydpozrux/ROR-course_1_QuickBlog.git
+  url = git@github.com:sakydpozrux/ROR-course_1_QuickBlog.git
 
+[submodule "ROR-course_2_BlogWithValidations"]
+  path = ROR_2_BlogWithValidations
+  url = git@github.com:sakydpozrux/ROR-course_2_BlogWithValidations.git
