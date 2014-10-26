@@ -9,3 +9,7 @@
 [submodule "ROR-course_2_BlogWithValidations"]
   path = ROR_2_BlogWithValidations
   url = git@github.com:sakydpozrux/ROR-course_2_BlogWithValidations.git
+
+[submodule "ROR-course_3a_OrdersAndProducts"]
+  path = ROR_3a_OrdersAndProducts
+  url = git@github.com:sakydpozrux/ROR-course_3a_OrdersAndProducts.git
