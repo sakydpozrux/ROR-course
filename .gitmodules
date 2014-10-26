@@ -13,3 +13,7 @@
 [submodule "ROR-course_3a_OrdersAndProducts"]
   path = ROR_3a_OrdersAndProducts
   url = git@github.com:sakydpozrux/ROR-course_3a_OrdersAndProducts.git
+
+[submodule "ROR-course_3b_ShopAdminPanel"]
+  path = ROR_3b_ShopAdminPanel
+  url = git@github.com:sakydpozrux/ROR-course_3b_ShopAdminPanel.git
